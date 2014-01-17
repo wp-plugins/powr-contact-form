@@ -28,7 +28,6 @@
 
 
     == Installation ==
-
     To install POWr Contact Form
     <br><br>
     1. Upload 'powr-contact-form.php' to the '/wp-content/plugins/' directory
@@ -43,7 +42,6 @@
 
 
     == Frequently Asked Questions ==
-
     = How can I add Contact Form to a blog post or page? = Just add the shortcode **[powr-contact-form label='MY LABEL']** (including the brackets) in your post where you'd like your Contact Form to appear. Then visit your page!
 
     = How can I add  Contact Form to my site multiple times? = Just be sure to specify different label text, eg **[powr-contact-form label='MY LABEL 1']**, **[powr-contact-form label='MY LABEL 2']** for each time you use the plugin
@@ -60,7 +58,6 @@
 
 
     == Screenshots ==
-
     1. Example
     2. Example
     3. Example
@@ -69,13 +66,11 @@
 
 
     == Upgrade Notice ==
-
     = 1.0 =
     First released version.
 
 
     == Changelog ==
-
     = 1.0 =
     * First released version
     
