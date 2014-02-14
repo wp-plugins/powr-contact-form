@@ -12,6 +12,7 @@
     Create a custom Contact Form in minutes.
 
     == Description ==
+    ![](//powr.io/tracking-pixel?action=wordpress&label=contactForm)
 
     POWr Contact Form is a mobile-responsive, fully-customizable plugin that you can edit **right in the page**.
     Add the widget to your site, or use the shortcode **[powr-contact-form]** to add Contact Form to any post.
