@@ -9,10 +9,10 @@ Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A custom contact forum for your site.
+A custom contact form for your site.
 
 == Description ==
-A custom contact forum for your site.
+[youtube https://youtu.be/bPya4RbkLWM] A custom contact form for your site.
 <br>
 <br>
 POWr Contact Form is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -23,7 +23,8 @@ First, download, install, and activate POWr Contact Form. Then drop the widget a
 = <a href='http://www.powr.io/tutorials/how-to-add-contact-form-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
 = Free Features =
-* Add form inputs for text, dropdowns, checkboxes, email, and more!
+* Accept payments through PayPal.
+* Easy inputs for text, dropdowns, checkboxes, email, date, and more.
 * Choose from expert-designed templates, or take control with custom fonts, colors, backgrounds, and more.
 * Automatically receive email notifications and send custom “thank you” messages when forms are submitted. 
 * Automatically store responses for analysis and export.
@@ -33,8 +34,9 @@ First, download, install, and activate POWr Contact Form. Then drop the widget a
 <br>
 = Upgrade ($2.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-* Multiple Recipients - automatically send form responses to multiple email addresses.
-* After Submission - choose to clear form, lock form, hide form, or redirect to a new page after user submission.
+* Automatically send form responses to multiple email addresses.
+* Choose to clear form, lock form, hide form, or redirect to a new page after user submission.
+* Allow users to upload images, documents, audio, and more.
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
