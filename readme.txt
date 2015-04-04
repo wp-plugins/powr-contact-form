@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A custom contact form for your site.
 
 == Description ==
-[youtube https://youtu.be/bPya4RbkLWM] A custom contact form for your site.
+[youtube https://www.youtube.com/watch?v=bPya4RbkLWM] A custom contact form for your site.
 <br>
 <br>
 POWr Contact Form is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
